@@ -1,0 +1,24 @@
+#btnajout{
+    background-color: transparent;
+    border-radius: 30px;
+    width: 100px;
+}
+#logo{
+    width: 200px;
+}
+#mynavbar{
+    
+    justify-content: space-between;
+}
+/* body */
+
+#body{
+    background-image: url(https://media.bizj.us/view/img/11234277/gettyimages-921054474*1200xx5120-2880-0-0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mynavbar ul li{
+    color: white !important; 
+    font-weight: bold;
+    justify-content: center !important;
+}
