@@ -1,0 +1,76 @@
+nav{
+    box-shadow: 0 23px 60px 0 rgb(0 0 0 / 15%);
+}
+nav ul li a,button{
+    box-shadow: 0 23px 60px 0 rgb(0 0 0 / 15%);
+}
+form{
+    border-radius: 1.25em;
+    background-color: #fff;
+    box-shadow: 0 23px 60px 0 rgb(0 0 0 / 15%);
+    margin-top: 100px !important;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+}
+form input,select,button {
+    margin: 15px;
+    box-shadow: 0 23px 30px 0 rgb(0 0 0 / 10%);
+}
+form input,select,label{
+    height: 45px;
+}
+
+
+
+
+#btnajout{
+    background-color: transparent;
+    border-radius: 30px;
+    width: 100px;
+}
+#btnajout a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+#logo{
+    width: 200px;
+}
+#mynavbar{
+    
+    justify-content: space-between;
+}
+/* body */
+
+
+#mynavbar ul li{
+    color: white !important; 
+    font-weight: bold;
+    justify-content: center !important;
+}
+/* 
+nav{
+    height: 100px !important;
+} */
+#mynavbar ul li a{
+    color: white;
+    margin-right: 20px;
+}
+#mynavbar {
+    justify-content: center;
+
+}
+#allnav{
+    justify-content: space-between !important;
+}
+
+#search{
+    margin-top: 100px;
+    
+}
+
+button i{
+    color: white;
+}

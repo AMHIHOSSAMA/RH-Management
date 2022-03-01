@@ -1,0 +1,60 @@
+nav{
+    box-shadow: 0 23px 60px 0 rgb(0 0 0 / 15%);
+}
+#myform{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50PX;
+}
+#myform .col,button{
+    margin-top: 15px;
+}
+#btnajout{
+    background-color: transparent;
+    border-radius: 30px;
+    width: 100px;
+}
+#btnajout a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+#logo{
+    width: 200px;
+}
+#mynavbar{
+    
+    justify-content: space-between;
+}
+/* body */
+
+#body{
+    background-image: url(https://media.bizj.us/view/img/11234277/gettyimages-921054474*1200xx5120-2880-0-0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mynavbar ul li{
+    color: white !important; 
+    font-weight: bold;
+    justify-content: center !important;
+}
+/* 
+nav{
+    height: 100px !important;
+} */
+#mynavbar ul li a{
+    color: white;
+    margin-right: 20px;
+}
+#mynavbar {
+    justify-content: center;
+
+}
+#allnav{
+    justify-content: space-between !important;
+}
+button{
+    justify-content: flex-end;
+    margin-left: 100px;
+}
